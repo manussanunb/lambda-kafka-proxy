@@ -1,4 +1,4 @@
-# lamba-kafka-proxy
+# lambda-kafka-proxy
 
 This repo shows the example development of lambda function sending message to Kafka in python.
 
